@@ -1,23 +1,32 @@
-<h1 align="center">Hi 👋, I'm Chaitanya</h1>
-<h3 align="center">Java Full Stack Developer 🚀</h3>
+<h1 align="center">Hi 👋, I'm Chaitanya Pimpare</h1>
+<h3 align="center">Full Stack Developer | Java + Spring Boot | React</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Java+Developer;Spring+Boot+Enthusiast;Full+Stack+Engineer&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Java+Backend+Developer;Spring+Boot+Engineer;Full+Stack+Developer;Flask+Developer&center=true&width=500&height=45">
 </p>
 
 ---
 
 ### 👨‍💻 About Me
-- 💻 Java Developer with hands-on project experience  
-- 🚀 Building real-world full-stack applications  
-- 🌱 Currently learning advanced Spring Boot & DSA  
+- 💼 Full Stack Developer with real-world project experience  
+- 🚀 Built and deployed production apps using React, Spring Boot & Flask  
+- ☁️ Experience with AWS EC2, Nginx, and live deployments  
+- 🌱 Currently improving DSA & backend architecture  
 
 ---
 
 ### 🛠 Tech Stack
 <p>
-  <img src="https://skillicons.dev/icons?i=java,spring,js,react,nodejs,mysql,git" />
+  <img src="https://skillicons.dev/icons?i=java,spring,js,react,nodejs,python,flask,mysql,git,aws" />
 </p>
+
+---
+
+### 🚀 Featured Projects
+- 💼 **FX-ALGO (E-commerce Platform)** – Payments + Automation  
+- 🌐 **EasyHunt** – Property Search System  
+- 💬 **Billing System (Spring Boot)**  
+- 🤖 **Job Recommendation System (ML + Flask)**  
 
 ---
 
@@ -28,13 +37,6 @@
 
 ---
 
-### 🔥 Top Projects
-- 💼 Billing System  
-- 🌐 Job Portal  
-- 💬 Chat Application  
-
----
-
 ### 📫 Connect With Me
-- LinkedIn: (add link)
-- Email: (add email)
+- LinkedIn: https://www.linkedin.com/in/chaitanyapimpare/
+- Email: chaitanyapimpare2003@gmail.com
