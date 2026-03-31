@@ -1,16 +1,40 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Chaitanya</h1>
+<h3 align="center">Java Full Stack Developer 🚀</h3>
 
-<!--
-**ChaitanyaPimpare/ChaitanyaPimpare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Java+Developer;Spring+Boot+Enthusiast;Full+Stack+Engineer&center=true&width=500&height=45">
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 About Me
+- 💻 Java Developer with hands-on project experience  
+- 🚀 Building real-world full-stack applications  
+- 🌱 Currently learning advanced Spring Boot & DSA  
+
+---
+
+### 🛠 Tech Stack
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,js,react,nodejs,mysql,git" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ChaitanyaPimpare&show_icons=true&theme=tokyonight" />
+</p>
+
+---
+
+### 🔥 Top Projects
+- 💼 Billing System  
+- 🌐 Job Portal  
+- 💬 Chat Application  
+
+---
+
+### 📫 Connect With Me
+- LinkedIn: (add link)
+- Email: (add email)
