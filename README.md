@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Chaitanya Pimpare</h1>
-<h3 align="center">Full Stack Developer | Java + Spring Boot | React</h3>
+<h3 align="center">Full Stack Developer | Java + Spring Boot |Python + Flask | React</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Java+Backend+Developer;Spring+Boot+Engineer;Full+Stack+Developer;Flask+Developer&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Java+Backend+Developer;Flask+Developer&center=true&width=500&height=45">
 </p>
 
 ---
