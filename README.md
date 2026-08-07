@@ -5,7 +5,7 @@ Full Stack Software Developer | Building Scalable Web Applications
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Software+Developer;React+Frontend+Developer;REST+API+Developer;Java+%7C+Python+Node.js+Backend;Always+Learning+%26+Building&center=true&width=650&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Software+Developer;React+Frontend+Developer;REST+API+Developer;Java+%7C+Python+%7C+Node.js+Backend;Always+Learning+%26+Building&center=true&width=650&height=45">
 </p>
 
 ---
