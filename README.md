@@ -27,7 +27,7 @@ Full Stack Software Developer | Building Scalable Web Applications
 ### 👨‍💻 About Me
 
 * 💼 Full Stack Developer with **real-world project experience**
-* 🚀 Built and deployed **production applications** using React, Spring Boot & Flask
+* 🚀 Built and deployed **production applications** using React, Node.js & Flask
 * ☁️ Hands-on with **AWS EC2, Nginx, Gunicorn & live deployments**
 * 🔐 Experience in **REST APIs, authentication systems & database design**
 * 🌱 Currently improving **DSA & backend architecture**
@@ -37,7 +37,7 @@ Full Stack Software Developer | Building Scalable Web Applications
 ### 🛠 Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,spring,js,react,python,flask,mysql,git,aws" />
+  <img src="https://skillicons.dev/icons?i=react,node.js,Express.js,python,flask,mysql,git,aws" />
 </p>
 
 ---
