@@ -39,7 +39,7 @@ Full Stack Software Developer | Building Scalable Web Applications
 ### 🛠 Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,node.js,Express.js,python,flask,mysql,git,aws" />
+  <img src="https://skillicons.dev/icons?i=javascript,react,nodejs,express,python,flask,mysql,postgres,html,css,git,github,postman,aws,docker" />
 </p>
 
 ---
