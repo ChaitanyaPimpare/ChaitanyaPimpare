@@ -27,7 +27,7 @@ Full Stack Software Developer | Building Scalable Web Applications
 ### 👨‍💻 About Me
 
 - 💼 Full Stack Developer with **real-world project experience**
-- 🚀 Built and deployed **production applications** using **React, Node.js & Flask**
+- 🚀 Built and deployed **production applications** using **React, Python Flask  & Node.js**
 - ☁️ Hands-on with **AWS EC2, Nginx, Gunicorn & live deployments**
 - 🔐 Experience in **REST APIs, JWT, OAuth 2.0, Razorpay integration & authentication systems**
 - 🗄️ Experience with **MySQL, PostgreSQL & database-driven applications**
