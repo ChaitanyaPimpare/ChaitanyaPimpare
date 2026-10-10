@@ -53,22 +53,6 @@ Full Stack Software Developer | Building Scalable Web Applications
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ChaitanyaPimpare&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ChaitanyaPimpare&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ChaitanyaPimpare&theme=tokyo-night" />
-</p>
-
----
-
 ### 📫 Connect With Me
 
 * 💼 LinkedIn: https://www.linkedin.com/in/chaitanyapimpare/
