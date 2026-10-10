@@ -48,7 +48,7 @@ Full Stack Software Developer | Building Scalable Web Applications
 
 * 💼 **FX-ALGO (E-commerce Platform)** – Multi-payment system + automation
 * 🌐 **EasyHunt** – Property document search system (real-world dataset)
-* 💬 **Billing System ** – Backend system with business logic
+* 💬 **Billing System** – Backend system with business logic
 * 🤖 **Job Recommendation System** – ML-based recommendation engine
 * 🏥 AI-First CRM – Healthcare CRM with AI-powered insights using React.js, FastAPI, and LangGraph.
 
